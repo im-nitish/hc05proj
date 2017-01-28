@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 73,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 73,
+                        "endOffset": 455
+                    }
+                }
+            }
+        ]
+    }
+]

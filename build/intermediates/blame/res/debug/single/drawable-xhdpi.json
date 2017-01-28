@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_device_bluetooth.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\ic_action_device_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\blue_car.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\blue_car.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_device_bluetooth_connected.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\ic_action_device_bluetooth_connected.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    }
+]

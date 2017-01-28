@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="188835276187611"
+    token="3551556479571459930"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="7235" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="656" />
+    <task
+        name="verifier"
+        duration="125" />
+
+    <artifact
+        location="C:\Users\Nitish\Downloads\Final Project\arduino_bluetooth-master\build\outputs\apk\arduino_bluetooth-master-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="201435508770890"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Nitish\Downloads\Final Project\arduino_bluetooth-master\build\outputs\apk\arduino_bluetooth-master-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

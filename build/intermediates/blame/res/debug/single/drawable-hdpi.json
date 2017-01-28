@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\banaao.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-hdpi\\banaao.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+    }
+]

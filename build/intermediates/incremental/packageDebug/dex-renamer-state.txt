@@ -1,0 +1,7 @@
+#Sun Jan 22 04:27:48 IST 2017
+base.0=C\:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ecaf2df5e592dfa99396907270389af272d0c740
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_43aad138cf1cf8c44b3c822bc76eb5cc6b204c73\\classes.dex
+base.1=C\:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_43aad138cf1cf8c44b3c822bc76eb5cc6b204c73
+file.0=C\:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ecaf2df5e592dfa99396907270389af272d0c740\\classes.dex

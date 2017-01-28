@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.bluetoothchat"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:configChanges="keyboardHidden|orientation|screenSize"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.android.bluetoothchat.MainActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.example.android.bluetoothchat.DeviceListActivity"
+            android:label="@string/select_device"
+            android:theme="@style/DialogTheme" />
+        <activity android:name="com.example.android.bluetoothchat.disData" />
+        <activity android:name="com.example.android.bluetoothchat.BGraph" />
+        <activity android:name="com.example.android.bluetoothchat.lineChartClass" />
+        <activity android:name="com.example.android.bluetoothchat.PieChartClass" />
+        <activity android:name="com.example.android.bluetoothchat.Main2Activity" >
+        </activity>
+        <activity
+            android:name="com.example.android.bluetoothchat.Main3Activity"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.example.android.bluetoothchat.Main4Activity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

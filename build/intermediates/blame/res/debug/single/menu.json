@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\menu\\device_control_activity.xml",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\menu\\device_control_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "C:\\Users\\Nitish\\Downloads\\Final Project\\arduino_bluetooth-master\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    }
+]
